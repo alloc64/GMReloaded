@@ -1,0 +1,23 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cloud/CloudAsyncWritingQueue.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Players/Robot/RobotEmilNetworked.cs" Line="1986" Column="28" />
+      <File FileName="Assets/Scripts/Players/Robot/RobotEmil.cs" Line="1533" Column="16" />
+      <File FileName="Assets/Scripts/AI/Bots/RobotEmilBotClient.cs" Line="873" Column="13" />
+      <File FileName="Assets/Scripts/Achievments/MissionsController.cs" Line="74" Column="5" />
+      <File FileName="Assets/Scripts/Achievments/AchievableItemBase.cs" Line="109" Column="4" />
+      <File FileName="Assets/Scripts/UpgradeTree/UpgradeTreeController.cs" Line="61" Column="16" />
+      <File FileName="Assets/Scripts/UI/Final/MainMenu/KBMainMenu.cs" Line="26" Column="39" />
+      <File FileName="Assets/Scripts/Cloud/CloudSyncedPlayerPrefs.cs" Line="187" Column="4" />
+      <File FileName="Assets/Scripts/Cloud/CloudAPI.cs" Line="275" Column="1" />
+      <File FileName="Assets/Scripts/Steam/SteamCloudAPI.cs" Line="16" Column="8" />
+      <File FileName="Assets/Scripts/Cloud/CloudAsyncWritingQueue.cs" Line="37" Column="42" />
+      <File FileName="Assets/Scripts/UI/Final/KBMenuRenderer.cs" Line="265" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

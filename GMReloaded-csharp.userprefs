@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass-vs.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Entities/EntityContainer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI/Final/CreateGame/MadnessMode/KBMadnessModeRow.cs" Line="33" Column="3" NotebookId="1" />
+      <File FileName="Assets/Scripts/UI/Final/CreateGame/MadnessMode/KBMadnessModeRowHint.cs" Line="24" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/UI/HUD/MadnessMode/HUDMadnessModeStackIcon.cs" Line="43" Column="35" NotebookId="1" />
+      <File FileName="Assets/Resources/Localizations/en.txt" Line="271" Column="40" NotebookId="1" />
+      <File FileName="Assets/Scripts/UI/Final/KBMenuRenderer.cs" Line="141" Column="4" NotebookId="1" />
+      <File FileName="Assets/Scripts/Entities/EntityContainer.cs" Line="219" Column="56" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="1680" Y="22" Width="1920" Height="1036">
+        <Files>
+          <File FileName="Assets/Config/Config.cs" Line="1765" Column="58" />
+          <File FileName="Assets/Scripts/UI/HUD/GameMessage/GameMessage.cs" Line="77" Column="33" />
+          <File FileName="Assets/Shared/Localizations/Localizations.cs" Line="198" Column="4" />
+          <File FileName="Assets/Scripts/UI/Final/Popup/Nick/KBRobotNickPopup.cs" Line="26" Column="12" />
+          <File FileName="Assets/Scripts/API/Login/Login.cs" Line="36" Column="55" />
+          <File FileName="Assets/Scripts/State/GlobalStateController.cs" Line="45" Column="20" />
+          <File FileName="Assets/Scripts/Players/LocalClientRobotEmil.cs" Line="182" Column="3" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
